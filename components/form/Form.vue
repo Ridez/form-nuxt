@@ -121,7 +121,7 @@ export default {
 
       try {
         await this.$axios.$post(
-          'https://quizzical-engelbart-5cbd43.netlify.com/.netlify/functions/api/form',
+          'https://ridez-sendgrid-express-server.netlify.com/.netlify/functions/api/form',
           {
             form: this.form,
             files: this.files.attachments
