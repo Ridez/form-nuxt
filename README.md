@@ -1,6 +1,8 @@
 # nuxt-contact-form
 
-> Contact form with SendGrid API
+> Contact form with SendGrid API. <br/><br/>
+> Demo available at: https://ridez-form-nuxt.netlify.com <br/>
+> Server for this app available at: https://github.com/Ridez/sendgrid-form-express
 
 ## Build Setup
 
